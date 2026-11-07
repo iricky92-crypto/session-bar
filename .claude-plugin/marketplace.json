@@ -1,0 +1,11 @@
+{
+  "name": "session-bar",
+  "owner": { "name": "iricky92-crypto" },
+  "plugins": [
+    {
+      "name": "session-bar",
+      "source": "./",
+      "description": "A small Claude-orange bar above the prompt: where this session is and a shimmering progress bar for the current turn"
+    }
+  ]
+}

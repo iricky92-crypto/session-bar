@@ -1,0 +1,8 @@
+{
+  "name": "session-bar",
+  "version": "0.1.0",
+  "description": "A small Claude-orange bar above the prompt: where this session is (project/folder/subfolder) and a shimmering progress bar for the current turn",
+  "author": { "name": "iricky92-crypto" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
